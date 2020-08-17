@@ -1,0 +1,21 @@
+{
+  "name": "discord-music-module-eternal",
+  "version": "1.0.0",
+  "description": "ONLY MEANT FOR ETERNAL",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FallakA/discord-music-module-eternal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FallakA/discord-music-module-eternal/issues"
+  },
+  "homepage": "https://github.com/FallakA/discord-music-module-eternal#readme"
+}
